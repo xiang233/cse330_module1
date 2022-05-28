@@ -1,0 +1,12 @@
+body {
+    background-color: aquamarine;
+    background-image: url("https://www.svgrepo.com/show/58383/birthday-cake.svg");
+    background-size: cover;
+}
+header {
+    color:blue;
+    font-size: 80px;
+    font-family: Verdana, sans-serif;
+    margin: 400px auto;
+    font-weight:bolder;
+}
